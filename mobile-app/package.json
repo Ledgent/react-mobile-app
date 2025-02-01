@@ -1,8 +1,8 @@
 {
   "name": "mobile-app",
-  "license": "0BSD",
   "version": "1.0.0",
-  "main": "index.js",
+  "license": "0BSD",
+  "private": true,
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -16,7 +16,7 @@
     "react-native": "0.76.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
-  },
-  "private": true
+    "@babel/core": "^7.20.0",
+    "@react-native-community/cli": "latest"
+  }
 }
