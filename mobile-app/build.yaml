@@ -1,0 +1,14 @@
+
+Make sure to update the URLs with your actual repository and backlink addresses.
+
+---
+
+## **Step 6: Commit and Push Your Changes**
+
+After making all the changes, return to your repository root (`react-mobile-app`) and commit everything:
+
+```bash
+# Ensure you are in the repository root
+git add .
+git commit -m "Initial commit: Git-ting Started task with React Native mobile app"
+git push origin main
